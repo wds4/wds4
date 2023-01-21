@@ -2,7 +2,7 @@ Hello world! 👋
 
 I am primarily interested in decentralized reputation and web of trust.
 
-Tools include: javascript, node, ipfs, react, jQuery, electron, sqlite3, vis.js, nostr (since Dec 2022), typescript (learning). May soon be learning: [dts](https://weiran-zsd.github.io/dts-cli/) (or something similar), redux (or something similar).
+Tools include: javascript, node, ipfs, react, jQuery, electron, sqlite3, vis.js, nostr (since Dec 2022), typescript (learning). May soon be learning: [tsdx](https://tsdx.io) (or something similar), redux (or something similar).
 
 Currently building a [nostr desktop client](https://github.com/wds4/electron-react-boilerplate-nostr). Once complete, I will be testing out a few ideas on decentralized ratings and reputation.
 
