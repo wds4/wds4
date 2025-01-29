@@ -4,7 +4,7 @@ I am primarily interested in freedome technology; more specifically in decentral
 
 I've been working in the nostr space since Dec 2022.
 
-I believe that graph databases and nostr are a match made in heaven, especially where web of trust is concerned. As of Jan 2025, I am working on pairing neo4j with nostr relays, notably strfry and its derivatives (such as relay.tools) with the goal of a next generation personalized Web of Trust nostr relay.
+I believe that graph databases and nostr are a match made in heaven, especially where web of trust is concerned. As of Jan 2025, I am working on pairing neo4j with nostr relays, notably strfry and its derivatives (such as relay.tools) with the goal of a next generation personalized Web of Trust nostr relay. If you are familiar with these tools and would like to help out, get in touch!
 
 Current tools include: nostr, neo4j, javascript, node, react, jQuery, electron, sqlite3, vis.js, typescript, redux.
 
