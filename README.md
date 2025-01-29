@@ -1,10 +1,14 @@
 Hello world! 👋
 
-I am primarily interested in decentralized reputation and web of trust.
+I am primarily interested in freedome technology; more specifically in decentralized ratings, reputation and web of trust.
 
-Currently building a [nostr desktop client](https://github.com/wds4/pretty-good), the purpose of which is to demonstrate decentralized web of trust using the "threaded tapestry" model for decentralized knowledge representation and curation.
+I've been working in the nostr space since Dec 2022.
 
-Tools include: javascript, node, ipfs, react, jQuery, electron, sqlite3, vis.js, nostr (since Dec 2022), typescript, redux.
+I believe that graph databases and nostr are a match made in heaven, especially where web of trust is concerned. As of Jan 2025, I am working on merging strfry and neoo4j.
+
+Current tools include: nostr, neo4j, javascript, node, react, jQuery, electron, sqlite3, vis.js, typescript, redux.
+
+Previous tools: ipfs, electron
 
 nostr pubkeys:<br>
 e5272de914bd301755c439b88e6959a43c9d2664831f093c51e9c799a16a102f (hex)
